@@ -3,12 +3,44 @@ date: 1662026140
 files:
     fdpclient/info.bracker
     fdpclient/1.8.9/lastest.bracker
+    fdpclient/1.8.9/1.3.0/mirror.bracker
+    fdpclient/1.8.9/1.3.1/mirror.bracker
+    fdpclient/1.8.9/1.3.2/mirror.bracker
+    fdpclient/1.8.9/1.3.3/mirror.bracker
+    fdpclient/1.8.9/1.4.0/mirror.bracker
+    fdpclient/1.8.9/1.4.0UpdateFix/mirror.bracker
+    fdpclient/1.8.9/2.0.0/mirror.bracker
+    fdpclient/1.8.9/2.0.0Pre1/mirror.bracker
+    fdpclient/1.8.9/2.0.0Pre2/mirror.bracker
+    fdpclient/1.8.9/2.0.1/mirror.bracker
+    fdpclient/1.8.9/2.0.2/mirror.bracker
+    fdpclient/1.8.9/2.1.0/mirror.bracker
+    fdpclient/1.8.9/2.1.1/mirror.bracker
+    fdpclient/1.8.9/2.1.2/mirror.bracker
+    fdpclient/1.8.9/3.0.0/mirror.bracker
+    fdpclient/1.8.9/3.0.1/mirror.bracker
+    fdpclient/1.8.9/3.1.0/mirror.bracker
+    fdpclient/1.8.9/3.1.1/mirror.bracker
+    fdpclient/1.8.9/4.0.4/mirror.bracker
+    fdpclient/1.8.9/4.2/mirror.bracker
+    fdpclient/1.8.9/4.2.1/mirror.bracker
+    fdpclient/1.8.9/4.3.0/mirror.bracker
+    fdpclient/1.8.9/4.3.0-20220619/mirror.bracker
+    fdpclient/1.8.9/4.3.0-20220619-2/mirror.bracker
+    fdpclient/1.8.9/4.3.5/mirror.bracker
     fdpclient/1.8.9/4.4.0/mirror.bracker
     fdpclient/1.8.9/4.4.5/mirror.bracker
     fdpclient/1.8.9/4.5.0/mirror.bracker
     fdpclient/1.8.9/4.5.5b/mirror.bracker
+    fdpclient/1.8.9/4.6.0/mirror.bracker
+    fdpclient/1.8.9/4.6.5/mirror.bracker
     fdpclient/1.8.9/71fd3ff/mirror.bracker
     liquidbounce/info.bracker
+    liquidbounce/1.12.2/lastest.bracker
+    liquidbounce/1.12.2/b1/mirror.bracker
+    liquidbounce/1.12.2/b2/mirror.bracker
+    liquidbounce/1.12.2/b73-dev/mirror.bracker
+    liquidbounce/1.12.2/b73-dev-nashorn/mirror.bracker
     liquidbounce/1.8.9/lastest.bracker
     liquidbounce/1.8.9/b26/mirror.bracker
     liquidbounce/1.8.9/b26.2/mirror.bracker
@@ -16,3 +48,47 @@ files:
     liquidbounce/1.8.9/b28/mirror.bracker
     liquidbounce/1.8.9/b29/mirror.bracker
     liquidbounce/1.8.9/b30/mirror.bracker
+    liquidbounce/1.8.9/b31/mirror.bracker
+    liquidbounce/1.8.9/b32/mirror.bracker
+    liquidbounce/1.8.9/b33/mirror.bracker
+    liquidbounce/1.8.9/b34/mirror.bracker
+    liquidbounce/1.8.9/b35/mirror.bracker
+    liquidbounce/1.8.9/b36/mirror.bracker
+    liquidbounce/1.8.9/b37/mirror.bracker
+    liquidbounce/1.8.9/b38/mirror.bracker
+    liquidbounce/1.8.9/b39/mirror.bracker
+    liquidbounce/1.8.9/b40/mirror.bracker
+    liquidbounce/1.8.9/b41/mirror.bracker
+    liquidbounce/1.8.9/b42/mirror.bracker
+    liquidbounce/1.8.9/b43/mirror.bracker
+    liquidbounce/1.8.9/b44/mirror.bracker
+    liquidbounce/1.8.9/b45/mirror.bracker
+    liquidbounce/1.8.9/b46/mirror.bracker
+    liquidbounce/1.8.9/b47/mirror.bracker
+    liquidbounce/1.8.9/b48/mirror.bracker
+    liquidbounce/1.8.9/b49/mirror.bracker
+    liquidbounce/1.8.9/b50/mirror.bracker
+    liquidbounce/1.8.9/b51/mirror.bracker
+    liquidbounce/1.8.9/b52/mirror.bracker
+    liquidbounce/1.8.9/b53/mirror.bracker
+    liquidbounce/1.8.9/b54/mirror.bracker
+    liquidbounce/1.8.9/b55/mirror.bracker
+    liquidbounce/1.8.9/b56/mirror.bracker
+    liquidbounce/1.8.9/b57/mirror.bracker
+    liquidbounce/1.8.9/b58/mirror.bracker
+    liquidbounce/1.8.9/b59/mirror.bracker
+    liquidbounce/1.8.9/b60/mirror.bracker
+    liquidbounce/1.8.9/b61/mirror.bracker
+    liquidbounce/1.8.9/b62/mirror.bracker
+    liquidbounce/1.8.9/b63/mirror.bracker
+    liquidbounce/1.8.9/b64/mirror.bracker
+    liquidbounce/1.8.9/b65/mirror.bracker
+    liquidbounce/1.8.9/b66/mirror.bracker
+    liquidbounce/1.8.9/b67/mirror.bracker
+    liquidbounce/1.8.9/b68/mirror.bracker
+    liquidbounce/1.8.9/b69/mirror.bracker
+    liquidbounce/1.8.9/b70/mirror.bracker
+    liquidbounce/1.8.9/b71/mirror.bracker
+    liquidbounce/1.8.9/b72/mirror.bracker
+    liquidbounce/1.8.9/b73/mirror.bracker
+
